@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\bin\Debug\net10.0\Group2Alfa.exe
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\bin\Debug\net10.0\Group2Alfa.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\bin\Debug\net10.0\Group2Alfa.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\bin\Debug\net10.0\Group2Alfa.dll
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\bin\Debug\net10.0\Group2Alfa.pdb
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.sourcelink.json
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.dll
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\refint\Group2Alfa.dll
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.pdb
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\Group2Alfa.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Desktop\programacion\Alfa\Alfa-Group\Group2Alfa\obj\Debug\net10.0\ref\Group2Alfa.dll
