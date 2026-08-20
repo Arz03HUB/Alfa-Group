@@ -1,10 +1,12 @@
 ﻿namespace Group2Alfa
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            string name ="Andrea";
+            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Bienvenido a programacion " + name);
         }
     }
 }
