@@ -1,3 +1,36 @@
 <Solution>
+  <Folder Name="/NewFolder1/" />
+  <Folder Name="/NewFolder1/tarea 1/">
+    <Project Path="../ejecicio 1/ejecicio 1.csproj" Id="c787e637-2392-4bda-b2d6-925bcb7ae679" />
+    <Project Path="../Ejecicio 2/Ejecicio 2.csproj" Id="2b534474-d661-42f1-b065-1fe840d61868" />
+    <Project Path="../Ejercicio 10/Ejercicio 10.csproj" Id="689a1bf0-dc8f-4b86-8b96-37c9e73dad6b" />
+    <Project Path="../Ejercicio 11/Ejercicio 11.csproj" Id="a128d4d9-4d32-45a7-a928-b91a7becc1a3" />
+    <Project Path="../Ejercicio 12/Ejercicio 12.csproj" Id="c3e8492f-d352-4795-9698-d44c96798ebb" />
+    <Project Path="../Ejercicio 13/Ejercicio 13.csproj" Id="7f499482-7c83-4039-b1ad-0e565b15a5a3" />
+    <Project Path="../Ejercicio 14/Ejercicio 14.csproj" Id="97617002-b5f5-45f2-8f6a-7c67012cc3ef" />
+    <Project Path="../Ejercicio 15/Ejercicio 15.csproj" Id="27fa0e6e-2af7-447b-99db-183112e78b22" />
+    <Project Path="../Ejercicio 16/Ejercicio 16.csproj" Id="42c0f568-2f1e-4888-8f34-7ef88aa1558f" />
+    <Project Path="../Ejercicio 17/Ejercicio 17.csproj" Id="5db95c80-1dab-43b8-b6f2-b5d6fffafc53" />
+    <Project Path="../Ejercicio 18/Ejercicio 18.csproj" Id="96bddb27-d2d6-47db-b1da-d1907b26e7bc" />
+    <Project Path="../Ejercicio 19/Ejercicio 19.csproj" Id="15d5d3a4-a9fb-4ec8-8d3e-dc104bdcdfe1" />
+    <Project Path="../Ejercicio 20/Ejercicio 20.csproj" Id="caa1633b-633f-49ff-b6f0-b6f65cc1f222" />
+    <Project Path="../Ejercicio 21/Ejercicio 21.csproj" Id="eba4596e-6af3-40e9-9f42-d27e63a9a673" />
+    <Project Path="../Ejercicio 22/Ejercicio 22.csproj" Id="8b1626a7-5fc8-452e-8966-c44f23200070" />
+    <Project Path="../Ejercicio 23/Ejercicio 23.csproj" Id="956ce39d-e39d-43f9-949c-95ca68c3db61" />
+    <Project Path="../Ejercicio 24/Ejercicio 24.csproj" Id="fa5e2e5a-572a-4470-bab2-0b36fa74b5ed" />
+    <Project Path="../Ejercicio 25/Ejercicio 25.csproj" Id="4598045d-3a2a-4073-9f1c-3b7f7a617585" />
+    <Project Path="../Ejercicio 26/Ejercicio 26.csproj" Id="a7c4d7a3-8dba-4a9f-985a-7765426b98a4" />
+    <Project Path="../Ejercicio 27/Ejercicio 27.csproj" Id="8fe280d0-8db2-4ac9-a4bb-c9cde0443f89" />
+    <Project Path="../Ejercicio 28/Ejercicio 28.csproj" Id="1e894198-716c-4596-b511-8ed79b53d83d" />
+    <Project Path="../Ejercicio 29/Ejercicio 29.csproj" Id="fd1d83df-9165-46de-a3a5-ad71d5b5144d" />
+    <Project Path="../ejercicio 3/ejercicio 3.csproj" Id="1d8de34f-cb5e-4027-896e-b1fc9db802b2" />
+    <Project Path="../Ejercicio 30/Ejercicio 30.csproj" Id="1b8fc72d-234d-4c17-a6ae-28fc5a97cdbf" />
+    <Project Path="../ejercicio 4/ejercicio 4.csproj" Id="f8cae7bf-5f9b-46df-95eb-230d036ebf89" />
+    <Project Path="../Ejercicio 5/Ejercicio 5.csproj" Id="f7d69018-fd28-4ebb-9a44-9e85a51b0805" />
+    <Project Path="../Ejercicio 6/Ejercicio 6.csproj" Id="fc0fc188-11d9-493b-9262-7fd4ce241996" />
+    <Project Path="../Ejercicio 7/Ejercicio 7.csproj" Id="68572c31-3e58-443b-8f36-cc467bde352a" />
+    <Project Path="../Ejercicio 8/Ejercicio 8.csproj" Id="f64aa9ac-504b-4d0a-ae0a-fedf12f7d432" />
+    <Project Path="../Ejercicio 9/Ejercicio 9.csproj" Id="e0def41f-3961-4217-ba70-764703b80689" />
+  </Folder>
   <Project Path="Group2Alfa.csproj" />
 </Solution>
