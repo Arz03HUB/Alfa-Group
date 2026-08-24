@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E04D97B4-8E9F-B606-D531-EB246958BF99}|Group2Alfa.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\alfa\\alfa-group\\group2alfa\\juegocalamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D97B4-8E9F-B606-D531-EB246958BF99}|Group2Alfa.csproj|solutionrelative:juegocalamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E04D97B4-8E9F-B606-D531-EB246958BF99}|Group2Alfa.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\alfa\\alfa-group\\group2alfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E04D97B4-8E9F-B606-D531-EB246958BF99}|Group2Alfa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D97B4-8E9F-B606-D531-EB246958BF99}|Group2Alfa.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\alfa\\alfa-group\\group2alfa\\group2alfa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E04D97B4-8E9F-B606-D531-EB246958BF99}|Group2Alfa.csproj|solutionrelative:group2alfa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group2Alfa",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\Group2Alfa.csproj",
+              "RelativeDocumentMoniker": "Group2Alfa.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\Group2Alfa.csproj",
+              "RelativeToolTip": "Group2Alfa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T15:55:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "juegoCalamar.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\juegoCalamar.cs",
+              "RelativeDocumentMoniker": "juegoCalamar.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\juegoCalamar.cs",
+              "RelativeToolTip": "juegoCalamar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T15:54:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programacion\\Alfa\\Alfa-Group\\Group2Alfa\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAuwE0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T18:52:14.351Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
