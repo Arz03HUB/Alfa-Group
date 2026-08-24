@@ -1,0 +1,15 @@
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.sourcelink.json
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\bin\Debug\net10.0\JuegoDelCalamar.exe
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\bin\Debug\net10.0\JuegoDelCalamar.deps.json
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\bin\Debug\net10.0\JuegoDelCalamar.runtimeconfig.json
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\bin\Debug\net10.0\JuegoDelCalamar.dll
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\bin\Debug\net10.0\JuegoDelCalamar.pdb
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.dll
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\refint\JuegoDelCalamar.dll
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.pdb
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\JuegoDelCalamar.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\grupo alfa\group\JuegoDelCalamar\obj\Debug\net10.0\ref\JuegoDelCalamar.dll

@@ -10,11 +10,24 @@
         "runtime": {
           "Ejercicio 9.dll": {}
         }
+      },
+      "Ejercicio 10/1.0.0": {
+        "runtime": {
+          "Ejercicio 10.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
   "libraries": {
     "Ejercicio 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio 10/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

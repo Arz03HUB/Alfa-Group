@@ -32,5 +32,6 @@
     <Project Path="../Ejercicio 8/Ejercicio 8.csproj" Id="f64aa9ac-504b-4d0a-ae0a-fedf12f7d432" />
     <Project Path="../Ejercicio 9/Ejercicio 9.csproj" Id="e0def41f-3961-4217-ba70-764703b80689" />
   </Folder>
+  <Project Path="../JuegoDelCalamar/JuegoDelCalamar.csproj" Id="4002daed-2e41-480f-b580-1f7b53d3549e" />
   <Project Path="Group2Alfa.csproj" />
 </Solution>
