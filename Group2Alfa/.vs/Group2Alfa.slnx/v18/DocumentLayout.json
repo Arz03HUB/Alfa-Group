@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Group2Alfa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4002DAED-2E41-480F-B580-1F7B53D3549E}|..\\JuegoDelCalamar\\JuegoDelCalamar.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\juegodelcalamar\\juegodelcalamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4002DAED-2E41-480F-B580-1F7B53D3549E}|..\\JuegoDelCalamar\\JuegoDelCalamar.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\juegodelcalamar\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,11 +19,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "JuegoDelCalamar.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\JuegoDelCalamar\\JuegoDelCalamar.cs",
+              "RelativeDocumentMoniker": "..\\JuegoDelCalamar\\JuegoDelCalamar.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\JuegoDelCalamar\\JuegoDelCalamar.cs",
+              "RelativeToolTip": "..\\JuegoDelCalamar\\JuegoDelCalamar.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAJsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:59:51.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\JuegoDelCalamar\\Program.cs",
               "RelativeDocumentMoniker": "..\\JuegoDelCalamar\\Program.cs",
@@ -28,18 +44,17 @@
               "RelativeToolTip": "..\\JuegoDelCalamar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T14:16:27.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T14:16:27.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FileName.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\JuegoDelCalamar\\FileName.cs",
               "RelativeDocumentMoniker": "..\\JuegoDelCalamar\\FileName.cs",
               "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\JuegoDelCalamar\\FileName.cs",
               "RelativeToolTip": "..\\JuegoDelCalamar\\FileName.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-24T14:14:16.626Z",
               "EditorCaption": ""

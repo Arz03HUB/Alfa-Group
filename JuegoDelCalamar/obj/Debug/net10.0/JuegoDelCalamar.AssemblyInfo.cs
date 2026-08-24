@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuegoDelCalamar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fca9b8f421219d2af6998113f80b6a5e608092b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181d79139cc0ad24d4e189492de93c1f2313b781")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuegoDelCalamar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuegoDelCalamar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
