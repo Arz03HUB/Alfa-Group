@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Group2Alfa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4598045D-3A2A-4073-9F1C-3B7F7A617585}|..\\Ejercicio 25\\Ejercicio 25.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64AA9AC-504B-4D0A-AE0A-FEDF12F7D432}|..\\Ejercicio 8\\Ejercicio 8.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B8FC72D-234D-4C17-A6AE-28FC5A97CDBF}|..\\Ejercicio 30\\Ejercicio 30.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,9 +22,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7C4D7A3-8DBA-4A9F-985A-7765426B98A4}|..\\Ejercicio 26\\Ejercicio 26.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4598045D-3A2A-4073-9F1C-3B7F7A617585}|..\\Ejercicio 25\\Ejercicio 25.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA5E2E5A-572A-4470-BAB2-0B36FA74B5ED}|..\\Ejercicio 24\\Ejercicio 24.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -69,9 +72,6 @@
       "AbsoluteMoniker": "D:0:0:{E0DEF41F-3961-4217-BA70-764703B80689}|..\\Ejercicio 9\\Ejercicio 9.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F64AA9AC-504B-4D0A-AE0A-FEDF12F7D432}|..\\Ejercicio 8\\Ejercicio 8.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68572C31-3E58-443B-8F36-CC467BDE352A}|..\\Ejercicio 7\\Ejercicio 7.csproj|c:\\users\\andrea\\desktop\\grupo alfa\\group\\ejercicio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -103,7 +103,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -116,38 +116,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T21:18:22.285Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 20\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 20\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 20\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 20\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:04:59.842Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 21\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 21\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 21\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 21\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:09:18.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 22\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 22\\Program.cs",
@@ -155,12 +128,11 @@
               "RelativeToolTip": "..\\Ejercicio 22\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:14:20.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T03:14:20.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 23\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 23\\Program.cs",
@@ -168,12 +140,11 @@
               "RelativeToolTip": "..\\Ejercicio 23\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:19:03.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T03:19:03.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 24\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 24\\Program.cs",
@@ -181,12 +152,11 @@
               "RelativeToolTip": "..\\Ejercicio 24\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:24:00.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T03:24:00.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 25\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 25\\Program.cs",
@@ -199,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 26\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 26\\Program.cs",
@@ -207,207 +177,24 @@
               "RelativeToolTip": "..\\Ejercicio 26\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:32:16.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 27\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 27\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 27\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 27\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:39:57.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T03:32:16.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 28\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 28\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 28\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 28\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T03:55:51.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 29\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 29\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 29\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 29\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T04:06:33.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 30\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 30\\Program.cs",
               "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 30\\Program.cs",
               "RelativeToolTip": "..\\Ejercicio 30\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T04:13:55.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 19\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 19\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 19\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 19\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:59:49.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 18\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 18\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 18\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 18\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:54:04.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 17\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 17\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 17\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 17\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:44:48.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 16\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 16\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 16\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 16\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:34:05.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 15\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 15\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 15\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:28:57.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 14\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 14\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 14\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 14\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:24:09.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 13\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 13\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 13\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 13\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:19:58.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 11\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 11\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 11\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 11\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:01:20.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 12\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 12\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 12\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T02:13:52.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 10\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 10\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 10\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T01:53:59.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 9\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio 9\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 9\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio 9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T01:45:00.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 8\\Program.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio 8\\Program.cs",
@@ -420,6 +207,198 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 21\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 21\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 21\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:09:18.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 20\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 20\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 20\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:04:59.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 27\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 27\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 27\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:39:57.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 28\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 28\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 28\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:55:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 29\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 29\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 29\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:06:33.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 19\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 19\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 19\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:59:49.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 18\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 18\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 18\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:54:04.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 17\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 17\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 17\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:44:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 16\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 16\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:34:05.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 15\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 15\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:28:57.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 14\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 14\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:24:09.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 13\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 13\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 13\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:19:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 11\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 11\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:01:20.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 12\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 12\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:13:52.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 10\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 10\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:53:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio 9\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 9\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio 9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:45:00.444Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 7\\Program.cs",
@@ -428,8 +407,7 @@
               "RelativeToolTip": "..\\Ejercicio 7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:50:08.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:50:08.362Z"
             },
             {
               "$type": "Document",
@@ -441,8 +419,7 @@
               "RelativeToolTip": "..\\Ejercicio 6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:23:20.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:23:20.497Z"
             },
             {
               "$type": "Document",
@@ -454,8 +431,7 @@
               "RelativeToolTip": "..\\Ejercicio 5\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwCwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T22:00:12.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T22:00:12.841Z"
             },
             {
               "$type": "Document",
@@ -467,21 +443,19 @@
               "RelativeToolTip": "..\\ejercicio 4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T21:51:55.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T21:51:55.015Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Ejercicio 5",
+              "Title": "Ejercicio 5.csproj",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 5\\Ejercicio 5.csproj",
               "RelativeDocumentMoniker": "..\\Ejercicio 5\\Ejercicio 5.csproj",
               "ToolTip": "C:\\Users\\Andrea\\Desktop\\grupo alfa\\group\\Ejercicio 5\\Ejercicio 5.csproj",
               "RelativeToolTip": "..\\Ejercicio 5\\Ejercicio 5.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-21T04:20:18.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T04:20:18.588Z"
             },
             {
               "$type": "Document",
@@ -493,8 +467,7 @@
               "RelativeToolTip": "..\\ejecicio 1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T21:12:40.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T21:12:40.69Z"
             },
             {
               "$type": "Document",
@@ -506,8 +479,7 @@
               "RelativeToolTip": "..\\ejercicio 3\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T21:32:54.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T21:32:54.94Z"
             }
           ]
         }
